@@ -1,0 +1,64 @@
+[
+    {
+        "assunto": "BD",
+        "professor": {
+            "nome": "Jonas"
+        },
+        "alunos": [
+            {
+                "nome": "Maria"
+            },
+            {
+                "nome": "Jose"
+            },
+            {
+                "nome": "Ana"
+            },
+            {
+                "nome": "Pedro"	
+            }
+        ]
+    },
+
+    {
+        "assunto": "POO",
+        "professor": {
+            "nome": "Chris"
+        },
+        "alunos": [
+            {
+                "nome": "Lucas"
+            },
+            {
+                "nome": "Ana"
+            },
+            {
+                "nome": "Matheus"
+            },
+            {
+                "nome": "Leo"	
+            }
+        ]
+    },
+
+    {
+        "assunto": "Calculo",
+        "professor": {
+            "nome": "Renan"
+        },
+        "alunos": [
+            {
+                "nome": "Ana"
+            },
+            {
+                "nome": "Maria"
+            },
+            {
+                "nome": "Leo"
+            },
+            {
+                "nome": "Matheus"	
+            }
+        ]
+    }
+]
