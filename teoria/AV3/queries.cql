@@ -1,4 +1,5 @@
 1-
+USE estoque;
 CREATE TABLE IF NOT EXISTS estoque (
     oid INT PRIMARY KEY,
     nome TEXT,
